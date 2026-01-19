@@ -2,7 +2,7 @@
 
 ## Initial Setup
 
-This is the initial setup for the project.
+This is the initial setup for the project by AZad.
 
 - Project initialized with Git
 - Feature branch created
